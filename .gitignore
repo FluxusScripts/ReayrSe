@@ -32,7 +32,7 @@ end)
 
 local Tab1Section = Tab1:NewSection("Fe")
 
-Tab1Section:NewButton("Snake","Snake",function()
+Tab1Section:NewButton("Snake","Snakee",function()
 loadstring(game:HttpGet(('https://pastefy.ga/tWBTcE4R/raw'),true))()
 end)
 
